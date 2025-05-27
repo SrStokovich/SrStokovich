@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=cc3333&text=SrStokovich&section=header">
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=c9a500&text=SrStokovich">
 
 
 ### 🤖 Sobre mim
